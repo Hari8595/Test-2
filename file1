@@ -1,4 +1,4 @@
-Auto CRLF (Carriage Return Line Feed) refers to a feature in some software tools, particularly version control systems, that automatically converts line endings in text files from one format to another.
+Hari Auto CRLF (Carriage Return Line Feed) refers to a feature in some software tools, particularly version control systems, that automatically converts line endings in text files from one format to another.
 
 In computing, line endings are characters that mark the end of a line of text. Different operating systems use different conventions for line endings. For example, Windows uses a combination of two characters, carriage return (CR) and line feed (LF), while Unix-based systems use only LF.
 
