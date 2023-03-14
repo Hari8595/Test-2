@@ -1,6 +1,10 @@
-line endings in text files from one format to another.
+hhline endings in text files from one format to another.
 
 In computing, line endings are characters that mark the end of a line of text. Different operating systems use different conventions for line endings. For example, Windows uses a combination of two characters, carriage return (CR) and line feed (LF), while Unix-based systems use only LF.
+
+
+
+
 
 Auto CRLF is a feature that automatically converts line endings in text files from one format to another, based on the user's settings or the default settings of the software tool. For example, when a file is checked out from a version control system, the line endings in the file can be automatically converted to the format preferred by the user's operating system. Similarly, when a file is checked in, the line endings can be converted to the format preferred by the version control system.
 
